@@ -1,7 +1,7 @@
 {
-  "name": "eslint-config-wesbos",
+  "name": "@r3s-dev/eslint-config",
   "version": "1.0.1",
-  "description": "ESLint and Prettier Config from Wes Bos",
+  "description": "ESLint and Prettier Config",
   "keywords": [
     "javascript",
     "ecmascript",
@@ -11,7 +11,7 @@
     "prettier"
   ],
   "main": "index.js",
-  "repository": "git@github.com:wesbos/eslint-config-wesbos.git",
+  "repository": "git@github.com:r3s-dev/eslint-config.git",
   "author": "Wes bos <wes@wesbos.com>",
   "license": "MIT",
   "peerDependencies": {
